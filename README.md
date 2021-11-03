@@ -1,7 +1,7 @@
 # The Games
 ## Angular Node Bootstrap HTML CSS Fontawesome
 ### Versión de escritorio
-![3](https://user-images.githubusercontent.com/86317658/140105068-e1ef7c45-b109-4ca2-bb6e-91804c8fd14d.png)
+![one-new](https://user-images.githubusercontent.com/86317658/140105552-61f82dfc-3ccf-4d30-b8b4-b020a3464d62.png)
 
 ___
 - :fire: luiggi.yantas@unmsm.edu.pe
