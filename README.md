@@ -3,6 +3,13 @@
 ### Versión de escritorio
 ![one](https://user-images.githubusercontent.com/86317658/140096027-acc1a315-6bfe-4dbf-a267-b38ee66f8f2d.png)
 
+___
+- :fire: luiggi.yantas@unmsm.edu.pe
+- :fire: luiggiyantas@gmail.com
+- :octocat:[Mi segundo repositorio](https://github.com/LuiggiCF/SistemaEstacionamiento "LuiggiCF")
+- :globe_with_meridians: <https://www.facebook.com/yantas.luiggi>
+___
+
 #### Agregar juego nuevo
 ![guardar escritorio](https://user-images.githubusercontent.com/86317658/140098387-4a9edc37-bcc9-4364-91b7-3dfd49f924fc.PNG)
 
